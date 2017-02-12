@@ -3,9 +3,9 @@ output:
   html_document:
     theme: cosmo
     toc: true
-    toc_depth: 2
+    toc_depth: 3
     toc_float:
-      collapsed: false
+      collapsed: true
 ---
 
 # Advanced Data Science
