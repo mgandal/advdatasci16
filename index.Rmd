@@ -19,9 +19,11 @@ Provides an intensive introduction to applied statistics and data analysis. Trai
 
 ### Learning Unix
 * [Excellent introduction to the unix command line](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
+
 ### Learning Genomics in R
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
 * [Statistics for Genomic Data Science by Jeff Leek](http://jtleek.com/genstats_site/)
+
 ### Genomic Principles
 * [Primer on Medical and population genetics](https://www.broadinstitute.org/scientific-community/science/programs/medical-and-population-genetics/primers/primer-medical-and-pop)
 
