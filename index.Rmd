@@ -8,16 +8,22 @@ output:
       collapsed: true
 ---
 
-# Advanced Data Science
+# Functional Genomics
 
 
-## About the course 
+## Getting Started
 
-### Course Description
+### Basics of Genomics / RNAseq
 
 Provides an intensive introduction to applied statistics and data analysis. Trains students to become data scientists capable of both applied data analysis and critical evaluation of the next generation next generation of statistical methods. Since both data analysis and methods development require substantial hands-on experience, focuses on hands-on data analysis.
 
-### Course objectives
+### Learning Unix
+* [Excellent introduction to the unix command line](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
+### Learning Genomics in R
+* [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
+* [Statistics for Genomic Data Science by Jeff Leek](http://jtleek.com/genstats_site/)
+### Genomic Principles
+* [Primer on Medical and population genetics](https://www.broadinstitute.org/scientific-community/science/programs/medical-and-population-genetics/primers/primer-medical-and-pop)
 
 Upon successfully completing this course, students will be able to:
 
